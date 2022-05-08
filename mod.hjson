@@ -1,0 +1,13 @@
+displayName: "Spawn"
+
+name: "spawn"
+
+author: "SMOLKEYS"
+
+subtitle: "Quick console utils for spawning units."
+
+description: "among us"
+
+version: 0
+
+minGameVersion: 136
